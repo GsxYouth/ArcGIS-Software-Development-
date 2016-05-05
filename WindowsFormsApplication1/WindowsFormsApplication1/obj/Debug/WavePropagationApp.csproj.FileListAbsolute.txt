@@ -1,0 +1,12 @@
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\jv-Latn\WindowsFormsApplication1.resources.dll
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RibbonForm1.resources
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RibbonForm1.jv-Latn.resources
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WavePropagationApp.csproj.GenerateResource.Cache
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\jv-Latn\WindowsFormsApplication1.resources.dll
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\ArcGIS-Software-Development-\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
